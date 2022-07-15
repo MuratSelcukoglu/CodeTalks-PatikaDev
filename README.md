@@ -1,7 +1,5 @@
 # PatikaDev Bootcamp CodeTalks
 
-# Here images of Application
-
 <img src="./src/Assets/ScreenShots/LoginPage.png" width="200px" /> <img src="./src/Assets/ScreenShots/SignupPage.png" width="200px" /> <img src="./src/Assets/ScreenShots/RoomsPage.png" width="200px" /> <img src="./src/Assets/ScreenShots/RoomsModal.png" width="200px" /> <img src="./src/Assets/ScreenShots/MessagesPage.png" width="200px" /> <img src="./src/Assets/ScreenShots/MessagesModal.png" width="200px" />
 
 # Tools & Resources
